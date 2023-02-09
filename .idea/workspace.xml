@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a62cc383-2ecf-491b-9604-1da16a1fa177" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HoltWinters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestHabr.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorrelationExploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CorrelationExploration.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -47,7 +51,9 @@
       <workItem from="1675502004783" duration="366000" />
       <workItem from="1675704305618" duration="23000" />
       <workItem from="1675766308821" duration="5381000" />
-      <workItem from="1675781478268" duration="2361000" />
+      <workItem from="1675781478268" duration="3304000" />
+      <workItem from="1675842270193" duration="785000" />
+      <workItem from="1675852259186" duration="8893000" />
     </task>
     <servers />
   </component>
@@ -64,5 +70,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WindDataPreparation$HoltWinters.coverage" NAME="HoltWinters Coverage Results" MODIFIED="1675860988728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

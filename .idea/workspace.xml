@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc629ac8-bacc-4332-be99-e41507132446" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/grib/2017.grib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/grib/2018.grib" afterDir="false" />
+    <list default="true" id="a62cc383-2ecf-491b-9604-1da16a1fa177" name="Changes" comment="">
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SklearnExplorer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SklearnExplorer.ipynb" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/GribFilesAnalize.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gribWork.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/researchts.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/WindDataPreparation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WindDataPreparation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GribFilesAnalize.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GribFilesAnalize.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2019.grib" beforeDir="false" afterPath="$PROJECT_DIR$/data/grib/2019.grib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2019.grib.923a8.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2020.grib" beforeDir="false" afterPath="$PROJECT_DIR$/data/grib/2020.grib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2020.grib.923a8.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2021.grib" beforeDir="false" afterPath="$PROJECT_DIR$/data/grib/2021.grib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2021.grib.923a8.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2022.grib" beforeDir="false" afterPath="$PROJECT_DIR$/data/grib/2022.grib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/grib/2022.grib.923a8.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,34 +34,74 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2OIE5A051ulH7XRHLnRPG6q0xGm" />
+  <component name="ProjectId" id="2LDzIEY5v010Cixr8BnQoEsMlad" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/Admin/1/GitHub/WindDataPreparation",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Admin\1\GitHub\WindDataPreparation\data\grib" />
+      <recent name="F:\Admin\1\GitHub\WindDataPreparation" />
     </key>
   </component>
+>>>>>>> Stashed changes
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc629ac8-bacc-4332-be99-e41507132446" name="Changes" comment="" />
-      <created>1681239513207</created>
+      <changelist id="a62cc383-2ecf-491b-9604-1da16a1fa177" name="Changes" comment="" />
+      <created>1675420359933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681239513207</updated>
-      <workItem from="1681239516267" duration="776000" />
+      <updated>1675420359933</updated>
+      <workItem from="1675420383149" duration="4308000" />
+      <workItem from="1675502004783" duration="366000" />
+      <workItem from="1675704305618" duration="23000" />
+      <workItem from="1675766308821" duration="5381000" />
+      <workItem from="1675781478268" duration="3304000" />
+      <workItem from="1675842270193" duration="785000" />
+      <workItem from="1675852259186" duration="8893000" />
+      <workItem from="1675934859615" duration="114000" />
+      <workItem from="1675966452331" duration="170000" />
+<<<<<<< Updated upstream
+      <workItem from="1676017471750" duration="5573000" />
+      <workItem from="1676096231995" duration="16525000" />
+=======
+      <workItem from="1676017471750" duration="4842000" />
+      <workItem from="1676612209699" duration="6234000" />
+      <workItem from="1676633030942" duration="1077000" />
+      <workItem from="1676634463037" duration="6339000" />
+      <workItem from="1676712055855" duration="12801000" />
+      <workItem from="1678179604670" duration="5145000" />
+      <workItem from="1678345615128" duration="276000" />
+      <workItem from="1678345907089" duration="286000" />
+      <workItem from="1678346227221" duration="2743000" />
+      <workItem from="1678380256737" duration="674000" />
+      <workItem from="1678435519849" duration="5553000" />
+      <workItem from="1678768897918" duration="13267000" />
+      <workItem from="1678789352510" duration="2008000" />
+      <workItem from="1678866382245" duration="5641000" />
+      <workItem from="1679024182756" duration="1353000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -72,5 +118,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://F:/Admin/1/GitHub/WindDataPreparation/TestHabr.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WindDataPreparation$HoltWinters.coverage" NAME="HoltWinters Coverage Results" MODIFIED="1675860988728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
